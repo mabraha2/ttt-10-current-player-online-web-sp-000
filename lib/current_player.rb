@@ -3,4 +3,3 @@ def turn_count(board)
     postion == "X" || postion == "O"
   end
 end
-
