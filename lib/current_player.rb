@@ -3,3 +3,5 @@ def turn_count(board)
     postion == "X" || postion == "O"
   end
 end
+
+def current_player(board)
